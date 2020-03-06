@@ -23,4 +23,4 @@ input, button{
     padding: 10px;
     outline: none;
 }
-label.hide{display:none}
+label{display:none}
